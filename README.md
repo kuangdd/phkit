@@ -1,0 +1,2 @@
+# phkit
+Phoneme toolkit
