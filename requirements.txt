@@ -1,4 +1,4 @@
-pypinyin
+pypinyin<=0.41.0
 hanziconv
 jieba
 inflect

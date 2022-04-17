@@ -14,7 +14,7 @@ phoneme toolkit: 拼音相关的文本处理工具箱，中文和英文的语音
 pip install -U phkit
 ```
 """
-__version__ = "0.2.10"
+__version__ = "0.2.11"
 
 version_doc = """
 #### 版本
